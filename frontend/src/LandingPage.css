@@ -1,0 +1,15 @@
+/* LandingPage.css */
+
+.landing-page {
+    background-image: url("https://images.pexels.com/photos/37650/new-zealand-lake-mountain-landscape-37650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .landing-page-content {
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
